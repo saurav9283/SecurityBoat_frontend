@@ -1,0 +1,15 @@
+.itemCard{
+    background-color: rgba(197, 246, 246, 0.509);
+    border-radius: 20px;
+    width: 350px;
+    padding: 20px 5px;
+    margin-bottom: 20px;
+    box-shadow: 8px 10px 8px 10px #888888;
+    /* margin-left: 10px; */
+    margin-right: 25px;
+}
+.itemCard .img img{
+   width: 250px;
+   height: 200px;
+   border-radius: 10px;
+}

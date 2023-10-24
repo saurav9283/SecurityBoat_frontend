@@ -1,0 +1,31 @@
+.navBar{
+    display: grid;
+    color: #1443BD;
+    padding: 50px;
+    padding-right: 50px;
+    grid-template-columns: 0.5fr 1fr;
+}
+.logout{
+    background-color: #4974e1;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+.logo h1{
+    margin: 0;
+}
+.navBar .links{
+    text-align: end;
+}
+.navBar .links a,.navBar .links span{
+    text-decoration: none;
+    margin-right: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.navBar .links span img{
+   width: 40px;
+   height: 40px;
+   border-radius: 100%;
+   border: 2px solid #1443BD;
+}

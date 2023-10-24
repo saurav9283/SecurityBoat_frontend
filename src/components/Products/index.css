@@ -1,0 +1,21 @@
+.products .content{
+   display: flex;
+   flex-wrap: wrap;
+   margin: 20px 50px;
+   align-items: center;
+   text-align: center;
+   justify-content: flex-start;
+}
+.products .heading{
+    text-align: center;
+    margin: 20px;
+}
+.products{
+    margin-top: -50px;
+    background-color:rgb(208, 197, 183);
+}
+
+.Pagination{
+    display: flex;
+    justify-content: center;
+}
